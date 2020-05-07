@@ -16,4 +16,4 @@ scrapy crawl 91dict
 
 # tutorial
 description of some details
-https://www.jianshu.com/p/5c60fc043d81
+https://blog.csdn.net/carry_hjr/article/details/105741807
